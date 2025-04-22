@@ -1,1 +1,9 @@
-This is a mini exploratory data analysis projectbased on a survey about mental health in tech found at https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+This repository showcases exploratory data analysis (EDA) projects using Python. It includes two distinct analyses:
+
+1. Mental Health in Tech Survey  
+   A mini EDA project based on a publicly available dataset from https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey, which explores mental health trends, workplace support, and demographics within the tech industry.
+
+2. Booking Data Analysis for Splendor Hotel  
+   A comprehensive EDA project focused on hotel booking data, examining customer behaviors, cancellation patterns, revenue trends, and more to uncover insights that can guide business decisions.
+
+Each project demonstrates data cleaning, visualization, and interpretation using libraries such as Pandas, Matplotlib, and Seaborn.
